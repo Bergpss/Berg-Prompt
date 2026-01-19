@@ -28,6 +28,7 @@ Berg-Prompt/
 | [失败预演](templates/thinking/premortem.md) | `/premortem [项目/想法]` | 假设项目失败，提前发现风险 |
 | [逆向提示词](templates/thinking/reverse.md) | `/reverse [成品范例]` | 从成品范例逆向推导提示词 |
 | [双版本解释](templates/thinking/explain.md) | `/explain [问题]` | 同时获得通俗和专业两个版本的解释 |
+| [深度挖掘](templates/thinking/dig.md) | `/dig` | 通过AI持续追问，挖掘内心深处的想法 |
 
 ### 写作类 (writing)
 
